@@ -6,8 +6,8 @@
 [![Build & Publish](https://github.com/EugSh1/oxide-shield/actions/workflows/build.yml/badge.svg)](https://github.com/EugSh1/oxide-shield/actions/workflows/build.yml)
 
 A **fast, lightweight, and safe L7 (HTTP) Reverse Proxy with Rate Limiting**, built with Rust,
-Tokio, and Hyper. Oxide-Shield is designed to protect downstream backend services from DDoS attacks
-and abuse by implementing a highly efficient Token Bucket algorithm.
+Tokio, and Hyper. Oxide-Shield is designed to protect downstream backend services from spam and
+abuse by implementing a highly efficient Token Bucket algorithm.
 
 ## Features
 
